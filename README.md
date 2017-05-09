@@ -6,3 +6,4 @@
 2. install dependecies<br />
    <code> npm install </code>
 
+3. <code> bower install </code>
